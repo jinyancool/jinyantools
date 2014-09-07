@@ -1,0 +1,8 @@
+Package: jinyantools
+Title: What the package does (short line)
+Version: 0.1
+Authors@R: "Jinyan HUANG<hiekeen@gmail.com> [aut, cre]"
+Description: This is Jinyan's tools.
+Depends: R (>= 3.1.1)
+License: MIT
+LazyData: true
